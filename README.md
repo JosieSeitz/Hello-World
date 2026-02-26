@@ -3,7 +3,7 @@
 ## **Project Title**
 Sample Hello World GitHub.
 ## **Description**
-I am practicing using GitHub for BAIS Professional Preparation class📚. I have learned how to stylize my text. Some of the important ones I learned about were **bolding**, *italicizing*, <ins>underlinging</ins>, and ~strikethrough~. I have also learned how to add a URL link connected to text. 
+I am practicing using GitHub for BAIS Professional Preparation class. I have learned how to stylize my text. Some of the important ones I learned about were **bolding**, *italicizing*, <ins>underlinging</ins>, and ~strikethrough~. I have also learned how to add a URL link connected to text. 
 ## **Tools Used**
 Used [GitHub Basic Formatting Syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) to understand how to build this page.
 ## **Files Used**

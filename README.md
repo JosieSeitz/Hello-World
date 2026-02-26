@@ -9,6 +9,6 @@ Used [GitHub Basic Formatting Syntax](https://docs.github.com/en/get-started/wri
 ## **Files Used**
 No files were used.
 ## **How to Run Program**
-Start with the basics on how to run the program with [GitHub Basic Formatting Syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+Start with the basics on how to run the program with [GitHub Basic Formatting Syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 ## **Additional Information**
 No additional information.

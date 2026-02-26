@@ -11,4 +11,4 @@ No files were used.
 ## **How to Run Program**
 Start with the basics on how to run the program with [GitHub Basic Formatting Syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 ## **Additional Information**
-No additional information.
+I have learnt how to stylize my text. Some of the important ones I learned about were **bolding**, *italicizing*, <ins>underlinging</ins>, and ~strikethrough~.
